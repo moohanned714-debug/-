@@ -6,7 +6,7 @@
 
 ## 📲 تحميل التطبيق
 
-[اضغط هنا لتحميل التطبيق](https://github.com/moohanned714-debug/مسيحه/releases/download/v1.0.0/azkari-release-signed.apk)
+[اضغط هنا لتحميل التطبيق](https://github.com/moohanned714-debug/-/releases/download/v1.0.0/azkari-mohanned-signed.4.apk)
 
 ---
 
